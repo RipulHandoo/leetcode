@@ -12,3 +12,9 @@ Example 1:
 
 Input: nums = [1,1,2,3,3,4,4,8,8]
 Output: 2
+
+
+# Constraints:
+
+1 <= nums.length <= 105
+0 <= nums[i] <= 105
