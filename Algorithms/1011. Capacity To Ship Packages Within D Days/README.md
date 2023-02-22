@@ -21,3 +21,8 @@ Explanation: A ship capacity of 15 is the minimum to ship all the packages in 5 
 5th day: 10
 
 Note that the cargo must be shipped in the order given, so using a ship of capacity 14 and splitting the packages into parts like (2, 3, 4, 5), (1, 6, 7), (8), (9), (10) is not allowed.
+
+# Constraints:
+
+1 <= days <= weights.length <= 5 * 104
+1 <= weights[i] <= 500
