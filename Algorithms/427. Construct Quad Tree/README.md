@@ -41,3 +41,8 @@ Input: grid = [[0,1],[1,0]]
 Output: [[0,1],[1,0],[1,1],[1,1],[1,0]]
 Explanation: The explanation of this example is shown below:
 Notice that 0 represnts False and 1 represents True in the photo representing the Quad-Tree.
+
+# Constraints:
+
+n == grid.length == grid[i].length
+n == 2x where 0 <= x <= 6
