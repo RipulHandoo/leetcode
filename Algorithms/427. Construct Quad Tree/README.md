@@ -34,3 +34,10 @@ It is very similar to the serialization of the binary tree. The only difference 
 
 If the value of isLeaf or val is True we represent it as 1 in the list [isLeaf, val] and if the value of isLeaf or val is False we represent it as 0.
 
+Example 1:
+
+
+Input: grid = [[0,1],[1,0]]
+Output: [[0,1],[1,0],[1,1],[1,1],[1,0]]
+Explanation: The explanation of this example is shown below:
+Notice that 0 represnts False and 1 represents True in the photo representing the Quad-Tree.
