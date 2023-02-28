@@ -13,3 +13,8 @@ Example 1:
 
 Input: root = [1,2,3,4,null,2,4,null,null,4]
 Output: [[2,4],[4]]
+
+#  Constraints:
+
+The number of the nodes in the tree will be in the range [1, 5000]
+-200 <= Node.val <= 200
