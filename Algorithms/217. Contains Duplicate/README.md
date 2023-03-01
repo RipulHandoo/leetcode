@@ -7,3 +7,8 @@ Example 1:
 
 Input: nums = [1,2,3,1]
 Output: true
+
+# Constraints:
+
+1 <= nums.length <= 105
+-109 <= nums[i] <= 109
