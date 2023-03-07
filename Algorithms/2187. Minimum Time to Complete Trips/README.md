@@ -1,5 +1,5 @@
 # 2187. Minimum Time to Complete Trips
-# You are given an array time where time[i] denotes the time taken by the ith bus to complete one trip.
+You are given an array time where time[i] denotes the time taken by the ith bus to complete one trip.
 
 Each bus can make multiple trips successively; that is, the next trip can start immediately after completing the current trip. Also, each bus operates independently; that is, the trips of one bus do not influence the trips of any other bus.
 
@@ -19,3 +19,7 @@ Explanation:
 - At time t = 3, the number of trips completed by each bus are [3,1,1]. 
   The total number of trips completed is 3 + 1 + 1 = 5.
 So the minimum time needed for all buses to complete at least 5 trips is 3.
+# Constraints:
+
+1 <= time.length <= 105
+1 <= time[i], totalTrips <= 107
