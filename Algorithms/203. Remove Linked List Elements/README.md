@@ -8,3 +8,8 @@ Example 1:
 
 Input: head = [1,2,6,3,4,5,6], val = 6
 Output: [1,2,3,4,5]
+# Constraints:
+
+The number of nodes in the list is in the range [0, 104].
+1 <= Node.val <= 50
+0 <= val <= 50
