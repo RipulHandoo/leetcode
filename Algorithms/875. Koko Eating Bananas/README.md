@@ -7,3 +7,8 @@ Example 1:
 
 Input: piles = [3,6,7,11], h = 8
 Output: 4
+# Constraints:
+
+1 <= piles.length <= 104
+piles.length <= h <= 109
+1 <= piles[i] <= 109
