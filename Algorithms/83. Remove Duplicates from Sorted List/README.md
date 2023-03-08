@@ -8,3 +8,8 @@ Example 1:
 
 Input: head = [1,1,2]
 Output: [1,2]
+# Constraints:
+
+The number of nodes in the list is in the range [0, 300].
+-100 <= Node.val <= 100
+The list is guaranteed to be sorted in ascending order.
