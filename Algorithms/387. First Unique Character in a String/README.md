@@ -7,3 +7,7 @@ Example 1:
 
 Input: s = "leetcode"
 Output: 0
+# Constraints:
+
+1 <= s.length <= 105
+s consists of only lowercase English letters.
