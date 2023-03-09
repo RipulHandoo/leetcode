@@ -9,3 +9,7 @@ Example 1:
 
 Input: s = ["h","e","l","l","o"]
 Output: ["o","l","l","e","h"]
+# Constraints:
+
+1 <= s.length <= 105
+s[i] is a printable ascii character.
