@@ -7,3 +7,11 @@ Example 1:
 
 Input: nums = [2,0,2,1,1,0]
 Output: [0,0,1,1,2,2]
+# Constraints:
+
+n == nums.length
+1 <= n <= 300
+nums[i] is either 0, 1, or 2.
+ 
+
+Follow up: Could you come up with a one-pass algorithm using only constant extra space?
