@@ -27,7 +27,7 @@ Input: lists = [[]]
 Output: []
  
 
-Constraints:
+# Constraints:
 
 k == lists.length
 0 <= k <= 104
