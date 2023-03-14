@@ -31,7 +31,7 @@ The root-to-leaf path 4->0 represents the number 40.
 Therefore, sum = 495 + 491 + 40 = 1026.
  
 
-Constraints:
+# Constraints:
 
 The number of nodes in the tree is in the range [1, 1000].
 0 <= Node.val <= 9
