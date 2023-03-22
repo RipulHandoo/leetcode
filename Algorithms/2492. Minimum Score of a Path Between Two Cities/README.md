@@ -21,7 +21,7 @@ Explanation: The path from city 1 to 4 with the minimum score is: 1 -> 2 -> 4. T
 It can be shown that no other path has less score
  
 
-Constraints:
+# Constraints:
 
 2 <= n <= 105
 1 <= roads.length <= 105
