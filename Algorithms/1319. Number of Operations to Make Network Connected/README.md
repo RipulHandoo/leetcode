@@ -14,7 +14,7 @@ Input: n = 4, connections = [[0,1],[0,2],[1,2]]
 Output: 1
 Explanation: Remove cable between computer 1 and 2 and place between computers 1 and 3.
 
-Constraints:
+# Constraints:
 
 1 <= n <= 105
 1 <= connections.length <= min(n * (n - 1) / 2, 105)
