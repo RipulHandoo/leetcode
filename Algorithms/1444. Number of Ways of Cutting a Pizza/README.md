@@ -25,7 +25,7 @@ Input: pizza = ["A..","A..","..."], k = 1
 Output: 1
  
 
-Constraints:
+# Constraints:
 
 1 <= rows, cols <= 50
 rows == pizza.length
