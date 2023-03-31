@@ -34,7 +34,7 @@ Input: s1 = "a", s2 = "a"
 Output: true
  
 
-Constraints:
+# Constraints:
 
 s1.length == s2.length
 1 <= s1.length <= 30
