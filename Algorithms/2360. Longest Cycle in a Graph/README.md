@@ -24,7 +24,7 @@ Output: -1
 Explanation: There are no cycles in this graph.
  
 
-Constraints:
+# Constraints:
 
 n == edges.length
 2 <= n <= 105
