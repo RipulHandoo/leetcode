@@ -21,7 +21,7 @@ Explanation: There are 14 pairs of nodes that are unreachable from each other:
 Therefore, we return 14.
  
 
-Constraints:
+# Constraints:
 
 1 <= n <= 105
 0 <= edges.length <= 2 * 105
