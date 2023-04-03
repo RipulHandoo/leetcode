@@ -17,7 +17,7 @@ Explanation: After Removing the second and last dish, the maximum total like-tim
 Each dish is prepared in one unit of time.
  
 
-Constraints:
+# Constraints:
 
 n == satisfaction.length
 1 <= n <= 500
