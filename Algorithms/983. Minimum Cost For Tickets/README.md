@@ -23,7 +23,7 @@ On day 3, you bought a 7-day pass for costs[1] = $7, which covered days 3, 4, ..
 On day 20, you bought a 1-day pass for costs[0] = $2, which covered day 20.
 In total, you spent $11 and covered all the days of your travel.
 
-Constraints:
+# Constraints:
 
 1 <= days.length <= 365
 1 <= days[i] <= 365
